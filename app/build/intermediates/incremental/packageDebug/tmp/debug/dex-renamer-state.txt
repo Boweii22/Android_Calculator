@@ -1,0 +1,7 @@
+#Fri Nov 03 11:22:09 WAT 2023
+base.0=C\:\\Users\\Bowei\\Documents\\Android\\Android Labs\\Calc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=C\:\\Users\\Bowei\\Documents\\Android\\Android Labs\\Calc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
